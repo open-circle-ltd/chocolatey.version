@@ -2,9 +2,9 @@
     "items": [
         {
             "version_url": "https://pcsupport.lenovo.com/de/de/downloads/ds501902",
-            "version": "10017",
+            "version": "5.07.0084",
             "versions": [
-                "10017"
+                "5.07.0084"
             ],
             "ecosystem": "https://www.lenovo.com/"
         }
