@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "version_url": "https://secure.counterpath.com/Store/CounterPath/Members/Account/ListDownloads.aspx",
+            "version": "5.6.2_99262",
+            "versions": [
+                "5.6.2_99262"
+            ],
+            "ecosystem": "https://counterpath.com/"
+        }
+    ]
+}
