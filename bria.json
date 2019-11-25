@@ -2,9 +2,9 @@
     "items": [
         {
             "version_url": "https://secure.counterpath.com/Store/CounterPath/Members/Account/ListDownloads.aspx",
-            "version": "5.8.0_101916",
+            "version": "5.8.1_102005",
             "versions": [
-                "5.8.0_101916"
+                "5.8.1_102005"
             ],
             "ecosystem": "https://counterpath.com/"
         }
