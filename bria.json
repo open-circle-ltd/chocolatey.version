@@ -1,10 +1,10 @@
 {
     "items": [
         {
-            "version_url": "https://secure.counterpath.com/Store/CounterPath/Members/Account/ListDownloads.aspx",
-            "version": "5.8.1_102005",
+            "version_url": "https://counterpath.s3.amazonaws.com/downloads/Bria_5.8.5_105447.exe",
+            "version": "5.8.5_105447",
             "versions": [
-                "5.8.1_102005"
+                "5.8.5_105447"
             ],
             "ecosystem": "https://counterpath.com/"
         }
