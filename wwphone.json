@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "version_url": "https://wwcom.ch/downloads/wwphone_3_4_10.exe",
+            "version": "3.4.10",
+            "versions": [
+                "3.4.10"
+            ],
+            "ecosystem": "https://wwcom.ch/"
+        }
+    ]
+}
