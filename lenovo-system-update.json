@@ -2,8 +2,9 @@
     "items": [
         {
             "version_url": "https://support.lenovo.com/us/en/downloads/ds012808",
-            "version": "5.07.0131",
+            "version": "5.07.0136",
             "versions": [
+                "5.07.0136",
                 "5.07.0131",
                 "5.07.0097",
                 "5.07.0088"
